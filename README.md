@@ -64,4 +64,4 @@ Even though this repository is intended solely for documentation, you may set it
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/umichsalary-docs.git
+   git clone https://github.com/yourusername/umichsalary.git
