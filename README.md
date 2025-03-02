@@ -98,7 +98,6 @@ This documentation is released under the [MIT License](LICENSE). Unauthorized re
 
 For further information, inquiries, or support regarding umichsalary.com, please use the following contact details:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **Contact:** [umichsalary.com/contact](https://umichsalary.com/contact)
 - **GitHub Issues:** Submit any documentation-related issues via the repository's issue tracker.
 
