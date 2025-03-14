@@ -113,3 +113,6 @@ For further information, inquiries, or support regarding umichsalary.com, please
 **A:** For any additional questions or support, please reach out via email or open an issue on GitHub.
 
 *Thank you for reviewing the umichsalary.com documentation. We appreciate your interest and commitment to data transparency and quality.*
+
+
+Created by Tyler esch and emmett Barrett
